@@ -17,3 +17,10 @@ Real-time feedback on correct and incorrect answers.
 Timer-based auto-submission or timeout alerts if time runs out.
 
 Smooth transitions and hover effects for an engaging user experience.**
+
+#output
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/b25809af-f3c0-4982-bf82-f170d1bf4fd2" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/99c20166-921e-431a-95d6-00a54a125607" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/d8e084a5-c831-445b-af75-55b4a3ed5bd6" />
